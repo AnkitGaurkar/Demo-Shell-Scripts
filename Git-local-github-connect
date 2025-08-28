@@ -1,0 +1,17 @@
+How to Connect Local git to GitHub:-
+
+Create Access Token
+setting
+developer setting 
+Create PAT(Personal Access Token)
+Copy Token in Notepad
+
+git remote -v
+git remote add origin https://github.com/AnkitGaurkar/Demo-Shell-Srcipts.git
+git remote set-url origin https://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@github.com/AnkitGaurkar/Demo-Shell-Scripts.git
+git push origin master
+
+Git Push/Pull Command:-
+git pull origin branch-name
+
+git push origin branch-name
