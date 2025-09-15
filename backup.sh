@@ -1,6 +1,8 @@
 #!/bin/bash
 
-
+<< help
+This is shell script for backup file
+help
 
 
 
